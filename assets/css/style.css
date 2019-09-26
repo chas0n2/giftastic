@@ -1,0 +1,29 @@
+body {
+    background: url();
+}
+
+.topic {
+    margin: 10px;
+   }
+
+.buttons-view {
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+h2 {
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+
+p {
+    margin-top: 20px;
+    line-height: 16px;
+}
+
+img {
+    border-radius: 20px;
+    margin-top: 2px;
+}
